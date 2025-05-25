@@ -17,8 +17,8 @@ minimum distance, updating the spanning tree, and updating the distance array.
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: Ashwath M
-RegisterNumber:212223230023
+Developed by: Aswinth T
+RegisterNumber: 212222230015
 */
 #include<stdio.h> 
 #include<stdlib.h>
